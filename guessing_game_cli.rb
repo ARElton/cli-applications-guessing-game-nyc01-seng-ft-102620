@@ -8,4 +8,5 @@ def run_guessing_game
     puts "Goodbye"
   else 
     puts "Invalid input"
+  end
 end
