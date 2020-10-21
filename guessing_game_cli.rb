@@ -6,6 +6,10 @@ def welcome
   puts "Guess a number from 1 to 6"
 end
 
+def user_input
+  gets.chomp 
+end
+
 
 
 def run_guessing_game
