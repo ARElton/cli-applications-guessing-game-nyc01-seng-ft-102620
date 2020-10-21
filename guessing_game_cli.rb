@@ -19,6 +19,7 @@ end
 def run_guessing_game
   random_number
   welcome
+  user_input
   user_number = user_input
   compter_number = random_number
   if user_number == compter_number
